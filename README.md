@@ -1,7 +1,7 @@
-#  Project Page
-This is an FInCFlow paper project page.
+#  FInC FLow Project Page
+This is a FInCFlow paper project page.
 
-url: [project_page_FInCFlow](https://naagar.github.io/project_page_FInCFlow/)
+url: [FInCFlow](https://naagar.github.io/FInC-Flow/)
 
 ## Paper: [here](https://www.scitepress.org/PublishedPapers/2023/118766/118766.pdf)
 
